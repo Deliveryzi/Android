@@ -1,1 +1,2 @@
-"Deliveryzi Android Application" 
+Deliveryzi Android Mobile Application
+
